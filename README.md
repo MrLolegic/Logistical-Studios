@@ -106,7 +106,13 @@ Obfuscation is the process of making something difficult to understand, typicall
 
 ### **Limitations**
 
-Soon to come!
+ When it comes to using AI for Lua obfuscation, the limitations are similar to those of using AI for obfuscation in general. These include the potential for slow processing times, brittle and fragile algorithms, and the expense of training and maintaining the AI.
+
+In addition to these general limitations, there may also be some specific challenges when using AI for Lua obfuscation. For example, because Lua is a dynamically typed language, it can be more difficult for an AI algorithm to understand and interpret the code. This can make it harder for the AI to effectively obfuscate the scripts, and may require the use of more complex and resource-intensive algorithms.
+
+Another challenge of using AI for Lua obfuscation is that Lua is a relatively simple and lightweight language. This means that it may be relatively easy for a people to manually obfuscate Lua scripts, making it less necessary to use AI for this purpose.
+
+Overall, while AI algorithms can potentially be useful for obfuscating Lua scripts, there are a number of limitations and challenges that need to be considered before using them for this purpose.
 
 <br/>
 
