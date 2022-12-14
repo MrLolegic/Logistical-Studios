@@ -2,7 +2,7 @@
 
 <br/>
 
-- ### Obfuscate Scripts
+- ### Obfuscated Scripts
     - #### Obfuscated Scripts (Using an obfuscator)
         - #### Ironbrew
         - #### Boronide | Might be removed since herrt is sexy
