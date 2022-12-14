@@ -74,7 +74,7 @@
                 <a href="#">Explanation</a>
             </li>
             <li>
-                <a href="#">Creators</a>
+                <a href="#">Founders</a>
             </li>
             <li>
                 <a href="#">Supporters</a>
@@ -168,3 +168,9 @@ A standard breakdown is to put 70-80% of the data in the trainging set and 20-30
 <h2 align="center"><b><u>About Us</u></b></h2>
 
 <br/>
+
+- ### Founders
+    - #### Mr Lolegic
+    - #### Wack
+    - #### JJ Sploit On Top (Not Owner)
+- ### Supporters
