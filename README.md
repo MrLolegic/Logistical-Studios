@@ -120,7 +120,7 @@ Overall, while AI algorithms can potentially be useful for obfuscating Lua scrip
 
 Our technique will involve training a machine learning model on a large dataset of lua scripts that have been manually obfuscated/deobfuscated by people and other obfuscators. The model will learn the patterns and techniques used to obfuscate and deobfuscate the lua scripts, such as renaming variables and functions, adding unnecessary code, and using complex control flow structures.
 
-Once the model has been trained, we will use it to automatically obfuscate and deobfuscate new lua scripts. The model will take a clearn, readable lua script as input, and it will output an obfuscated version of the script that is difficult for people to understand. However, the obfuscated script will still be function and will produce the same output as the original script when executed.
+Once the model has been trained, we will use it to automatically obfuscate and deobfuscate new lua scripts. The model will take a clean, readable lua script as input, and it will output an obfuscated version of the script that is difficult for people to understand. However, the obfuscated script will still be function and will produce the same output as the original script when executed.
 
 In this way, out technique will use artificial intelligence to automatically obfuscate and deobfuscate lua scripts, providing clear, protected and unprotected versions of the scripts that are difficult and easy for people to understand and modify. This will help to protect the intellectual property of the scripts and prevent them from being reverse-engineered or modified without permission.
 
